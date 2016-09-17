@@ -6,7 +6,9 @@ SimDTA was originally developed by Dr. [Cheng-Zhi Qin](http://people.ucas.ac.cn/
 The latest revision (version 1.0.3) was made on July 22, 2013.
 
 Please use the below information for citation on this work:
-Qin C-Z,  Lu Y-J, Bao L-L,  Zhu A-X,  Qiu W-L,  Cheng W-M. Simple digital terrain analysis software (SimDTA 1.0) and its application in fuzzy classification of slope positions. Journal of Geo-Information Science, 2009, 11(6): 737-743. (in Chinese with English abstract)[秦承志，卢岩君，包黎莉，朱阿兴，邱维理，程维明.简化数字地形分析软件（SimDTA）及其应用——以嫩江流域鹤山农场的坡位模糊分类应用为例. 地球信息科学学报，2009，11（6）：737-743.]
+
+Qin C-Z,  Lu Y-J, Bao L-L,  Zhu A-X,  Qiu W-L,  Cheng W-M. Simple digital terrain analysis software (SimDTA 1.0) and its application in fuzzy classification of slope positions. Journal of Geo-Information Science, 2009, 11(6): 737-743. (in Chinese with English abstract) 
+[秦承志，卢岩君，包黎莉，朱阿兴，邱维理，程维明. 简化数字地形分析软件（SimDTA）及其应用——以嫩江流域鹤山农场的坡位模糊分类应用为例. 地球信息科学学报，2009，11（6）：737-743.]
 
 ## 1. Installation
 
