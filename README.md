@@ -16,7 +16,11 @@ Then **SimDTA** is ready to run, i.e., `SimDTA-V1.0.3-20130722.exe`!
 
 ## 2. Development
 
-SimDTA is originally developed by Microsoft Visual Basic 6.0. The required standard control libraries include `Microsoft Common Dialog Control 6.0`, `Microsoft FlexGrid Control 6.0`, `Microsoft Tabbed Dialog Control 6.0`, `Microsoft Windows Common Controls 6.0`. The source codes are available in `/src` directory.
+SimDTA is originally developed by Microsoft Visual Basic 6.0. The source codes are available in `/src` directory.
+
+Microsoft Visual Basic 6.0 can be installed on modern Windows operation systems such as Windows 7, 8, and 10.
++ [How To Install Visual Basic 6 (VB6) in Windows 10](https://www.raymond.cc/blog/install-visual-basic-6-vb6-in-windows-7-without-microsoft-virtual-machine-for-java/)
++ [How to Install Visual Basic 6.0 on Windows 7/8/8.1/10](https://www.youtube.com/watch?v=LXvd8IRw_ZI)
 
 ## 3. Get help
 
