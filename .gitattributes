@@ -25,5 +25,6 @@
 *.exe.compat binary
 *.ocx.compat binary
 
+*.pdf   binary
 *.pdf   diff=astextplain
 *.PDF   diff=astextplain
